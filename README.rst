@@ -29,3 +29,8 @@ The latest build status on `travis <https://travis-ci.org/kura/blackhole2/>`_.
 
 And the test coverage report on `codecov
 <https://codecov.io/github/kura/blackhole2?branch=master>`_.
+
+
+.. image:: https://badges.gitter.im/kura/blackhole2.svg
+   :alt: Join the chat at https://gitter.im/kura/blackhole2
+   :target: https://gitter.im/kura/blackhole2?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
